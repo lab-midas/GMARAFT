@@ -5,6 +5,9 @@ This repository contains the Pytorch implementation of the paper
 Aya Ghoul, Jiazhen Pan, Andreas Lingg, Jens Kübler, Patrick Krumm, Kerstin Hammernik, Daniel Rueckert, Sergios Gatidis, Thomas Küstner
 "Attention-aware non-rigid image registration for accelerated MR imaging" (under review)
 ```
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8-ff69b4.svg" /></a>
+<a href= "https://pytorch.org/"> <img src="https://img.shields.io/badge/PyTorch-1.13-2BAF2B.svg" /></a>
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
 
 GMARAFT is a deep learning-based method for the alignment/registration of both fully sampled and accelerated magnetic resonance (MR) images. We combined [RAFT](https://github.com/princeton-vl/RAFT), [GMA](https://github.com/zacjiang/GMA) and a denoising network to derive reliable motion estimation across different sampling trajectories (Cartesian and radial) and acceleration factors of up to 16x for cardiac motion and 30x for respiratory motion. The model was tested on the downstream task of motion-compensated reconstruction.
 
