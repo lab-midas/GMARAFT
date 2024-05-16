@@ -1,9 +1,10 @@
 # GMARAFT: Non-Rigid Motion Estimation in Fully Sampled and Accelerated MR Images
 
 This repository contains the Pytorch implementation of the paper
+["Attention-aware non-rigid image registration for accelerated MR imaging"](https://ieeexplore.ieee.org/abstract/document/10491317/)
 
 Aya Ghoul, Jiazhen Pan, Andreas Lingg, Jens Kübler, Patrick Krumm, Kerstin Hammernik, Daniel Rueckert, Sergios Gatidis, Thomas Küstner
-["Attention-aware non-rigid image registration for accelerated MR imaging"](https://ieeexplore.ieee.org/abstract/document/10491317/)
+
 IEEE Transactions on Medical Imaging 2024.
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8-ff69b4.svg" /></a>
