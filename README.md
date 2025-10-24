@@ -3,6 +3,7 @@
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8-ff69b4.svg" /></a>
 <a href= "https://pytorch.org/"> <img src="https://img.shields.io/badge/PyTorch-1.13-2BAF2B.svg" /></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+<a href="https://onlinelibrary.wiley.com/doi/10.1002/mrm.70137"><img src="https://img.shields.io/badge/Paper-Accepted-success.svg" /></a>
 
 This repository contains the Pytorch implementation of the paper
 ["Attention-aware non-rigid image registration for accelerated MR imaging"](https://ieeexplore.ieee.org/abstract/document/10491317/)
